@@ -52,6 +52,12 @@ The existing code provides:
 - No actual multi-audio functionality implemented yet
 - No volume control UI
 
+### Suggestions:
+
+Enable Developers Option and USB Debugging and Enable the `Disable Permission Monitoring`
+Install the Shizuku app from Playstore and download it on your mobile and grant it all the permissions needed.
+Shizuku Github: https://github.com/RikkaApps/Shizuku 
+
 ## Building Upon Existing Code
 
 You may:
