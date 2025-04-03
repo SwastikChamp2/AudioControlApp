@@ -1,6 +1,6 @@
 # Help me build this feature and win a bounty of $50
 
-An Android application that enables simultaneous audio playback from multiple apps with individual volume control.
+An Android application that enables simultaneous audio playback from multiple apps with individual volume control on a barebackbone UI (UI is not important now)
 
 ## Bounty: $50
 
