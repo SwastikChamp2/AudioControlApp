@@ -22,7 +22,7 @@ Develop a feature that allows playing audio from multiple apps simultaneously (e
 
 3. **Compatibility:**
    - Must work without root (I have used Shizuku here, you can use anything you like)
-   - Should work on Android 10+ (target API 34)
+   - Should work on Android 10 and above (target API 34)
 
 ### Technical Constraints
 - Kotlin implementation preferred
