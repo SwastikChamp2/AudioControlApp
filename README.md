@@ -54,9 +54,10 @@ The existing code provides:
 
 ### Suggestions:
 
-Enable Developers Option and USB Debugging and Enable the `Disable Permission Monitoring`
-Install the Shizuku app from Playstore and download it on your mobile and grant it all the permissions needed.
-Shizuku Github: https://github.com/RikkaApps/Shizuku 
+- Enable Developers Option and USB Debugging and Enable the `Disable Permission Monitoring`
+- Install the Shizuku app from Playstore and download it on your mobile and grant it all the permissions needed.
+- Shizuku Github: https://github.com/RikkaApps/Shizuku
+- Enable the Shizuku Permission in your app ( Settings> App List / App Manager > {Name of your App} > Permissions > Shizuku > Allow )
 
 ## Building Upon Existing Code
 
